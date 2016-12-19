@@ -20,9 +20,6 @@ var DefaultLayout = React.createClass({
           </div>
         </div>
         <this.props.activeRouteHandler />
-		<div>
-			this is sample
-		</div>
         <div className="navbar-footer">
           <div className="container">
             <p className="text-muted">
